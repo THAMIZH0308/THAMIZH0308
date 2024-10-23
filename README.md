@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm THAMIZHSELVAN S</h1>
-<h3 align="center">A passionate Machine Learning Engineer from India</h3>
+<h3 align="center">An Experienced Machine Learning Engineer from India</h3>
 # 💫 About Me:
 
 👩‍💻 Certified Python and ML Engineer. <br>
